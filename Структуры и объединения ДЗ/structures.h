@@ -65,7 +65,7 @@ public:
 	}
 	std::string GetName() {
 		return name;
-	}
+	} 
 	void SetName(std::string newName) {
 		name = newName;
 	}
